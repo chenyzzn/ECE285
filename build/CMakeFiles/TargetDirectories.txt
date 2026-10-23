@@ -1,0 +1,4 @@
+/Users/yzchen/Desktop/hw1_starter/build/CMakeFiles/reyes.dir
+/Users/yzchen/Desktop/hw1_starter/build/CMakeFiles/depth_fog.dir
+/Users/yzchen/Desktop/hw1_starter/build/CMakeFiles/edit_cache.dir
+/Users/yzchen/Desktop/hw1_starter/build/CMakeFiles/rebuild_cache.dir

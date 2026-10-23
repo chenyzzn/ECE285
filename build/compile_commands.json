@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/reyes.dir/src/main.cpp.o -c /Users/yzchen/Desktop/hw1_starter/src/main.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/src/main.cpp",
+  "output": "CMakeFiles/reyes.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/reyes.dir/src/ri.cpp.o -c /Users/yzchen/Desktop/hw1_starter/src/ri.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/src/ri.cpp",
+  "output": "CMakeFiles/reyes.dir/src/ri.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -o CMakeFiles/reyes.dir/src/shaders.cpp.o -c /Users/yzchen/Desktop/hw1_starter/src/shaders.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/src/shaders.cpp",
+  "output": "CMakeFiles/reyes.dir/src/shaders.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/reyes.dir/scenes/0_scene_table.cpp.o -c /Users/yzchen/Desktop/hw1_starter/scenes/0_scene_table.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/scenes/0_scene_table.cpp",
+  "output": "CMakeFiles/reyes.dir/scenes/0_scene_table.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/reyes.dir/scenes/1_TestScenes.cpp.o -c /Users/yzchen/Desktop/hw1_starter/scenes/1_TestScenes.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/scenes/1_TestScenes.cpp",
+  "output": "CMakeFiles/reyes.dir/scenes/1_TestScenes.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/reyes.dir/scenes/2_IntermediateScenes/Rocket.cpp.o -c /Users/yzchen/Desktop/hw1_starter/scenes/2_IntermediateScenes/Rocket.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/scenes/2_IntermediateScenes/Rocket.cpp",
+  "output": "CMakeFiles/reyes.dir/scenes/2_IntermediateScenes/Rocket.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/reyes.dir/scenes/2_IntermediateScenes/Explorer.cpp.o -c /Users/yzchen/Desktop/hw1_starter/scenes/2_IntermediateScenes/Explorer.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/scenes/2_IntermediateScenes/Explorer.cpp",
+  "output": "CMakeFiles/reyes.dir/scenes/2_IntermediateScenes/Explorer.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/reyes.dir/scenes/2_IntermediateScenes/McQueen.cpp.o -c /Users/yzchen/Desktop/hw1_starter/scenes/2_IntermediateScenes/McQueen.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/scenes/2_IntermediateScenes/McQueen.cpp",
+  "output": "CMakeFiles/reyes.dir/scenes/2_IntermediateScenes/McQueen.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/reyes.dir/scenes/2_IntermediateScenes/Buzz.cpp.o -c /Users/yzchen/Desktop/hw1_starter/scenes/2_IntermediateScenes/Buzz.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/scenes/2_IntermediateScenes/Buzz.cpp",
+  "output": "CMakeFiles/reyes.dir/scenes/2_IntermediateScenes/Buzz.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/reyes.dir/scenes/2_IntermediateScenes/WallE.cpp.o -c /Users/yzchen/Desktop/hw1_starter/scenes/2_IntermediateScenes/WallE.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/scenes/2_IntermediateScenes/WallE.cpp",
+  "output": "CMakeFiles/reyes.dir/scenes/2_IntermediateScenes/WallE.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/reyes.dir/scenes/2_IntermediateScenes/Gumbo.cpp.o -c /Users/yzchen/Desktop/hw1_starter/scenes/2_IntermediateScenes/Gumbo.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/scenes/2_IntermediateScenes/Gumbo.cpp",
+  "output": "CMakeFiles/reyes.dir/scenes/2_IntermediateScenes/Gumbo.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/reyes.dir/scenes/3_CinematicScenes/RadiatorSprings.cpp.o -c /Users/yzchen/Desktop/hw1_starter/scenes/3_CinematicScenes/RadiatorSprings.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/scenes/3_CinematicScenes/RadiatorSprings.cpp",
+  "output": "CMakeFiles/reyes.dir/scenes/3_CinematicScenes/RadiatorSprings.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/reyes.dir/scenes/3_CinematicScenes/AndysRoom.cpp.o -c /Users/yzchen/Desktop/hw1_starter/scenes/3_CinematicScenes/AndysRoom.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/scenes/3_CinematicScenes/AndysRoom.cpp",
+  "output": "CMakeFiles/reyes.dir/scenes/3_CinematicScenes/AndysRoom.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/reyes.dir/scenes/3_CinematicScenes/WallEMovie.cpp.o -c /Users/yzchen/Desktop/hw1_starter/scenes/3_CinematicScenes/WallEMovie.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/scenes/3_CinematicScenes/WallEMovie.cpp",
+  "output": "CMakeFiles/reyes.dir/scenes/3_CinematicScenes/WallEMovie.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -I/Users/yzchen/Desktop/hw1_starter/include -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -Wall -Wextra -Wno-missing-field-initializers -o CMakeFiles/reyes.dir/scenes/OriginalScene.cpp.o -c /Users/yzchen/Desktop/hw1_starter/scenes/OriginalScene.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/scenes/OriginalScene.cpp",
+  "output": "CMakeFiles/reyes.dir/scenes/OriginalScene.cpp.o"
+},
+{
+  "directory": "/Users/yzchen/Desktop/hw1_starter/build",
+  "command": "/usr/bin/clang++  -isystem /Users/yzchen/Desktop/hw1_starter/third_party -g -std=c++17 -arch arm64 -o CMakeFiles/depth_fog.dir/src/depth_fog.cpp.o -c /Users/yzchen/Desktop/hw1_starter/src/depth_fog.cpp",
+  "file": "/Users/yzchen/Desktop/hw1_starter/src/depth_fog.cpp",
+  "output": "CMakeFiles/depth_fog.dir/src/depth_fog.cpp.o"
+}
+]
